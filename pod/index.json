@@ -1,6 +1,6 @@
 {
-  "title": "Foreground Background Scripts",
-  "description": "Execute code automatically in foreground and background",
+  "title": "Learn Pod",
+  "description": "Here are some scenario-based questions about Pods to help you prepare for the CKAD exam. Each question is designed to test your problem-solving and configuration skills in realistic Kubernetes situations.",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -8,8 +8,9 @@
     },
     "steps": [
       {
-        "title": "List all pods",
-        "text": "step1.md"
+        "title": "Create a Pod with Multiple Containers",
+        "text": "scenarios/1/content.md",
+        "verify": "scenarios/1/verify.sh"
       }
     ],
     "finish": {
