@@ -1,5 +1,1 @@
-> <strong>Note</strong>: logs of the _intro_ background script can be found at `/var/log/killercoda`
-
-<br>
-
-Here we see that the foreground script waits for the background script to finish.
+Here are some scenario-based questions about Pods to help you prepare for the CKAD exam. Each question is designed to test your problem-solving and configuration skills in realistic Kubernetes situations.
